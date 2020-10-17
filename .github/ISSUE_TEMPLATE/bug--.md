@@ -2,7 +2,7 @@
 name: BUG反馈
 about: 反馈您在使用 QQMini.PluginSDK 时所遇到的问题
 title: "[BUG]"
-labels: bug
+labels: ''
 assignees: Jie2GG
 
 ---
